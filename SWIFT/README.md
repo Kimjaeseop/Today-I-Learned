@@ -2,3 +2,7 @@
 
 - 유데미 강좌
 - 1차 목표 인스타그램 클론 코딩
+
+## Lecture
+- Section 1
+## Study
