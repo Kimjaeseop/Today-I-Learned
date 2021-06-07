@@ -1,6 +1,9 @@
-# Today-I-Learned (TIL)
+# Today I Learned
 
-## SWIFT
+# **Today-I-Learned (TIL)**
+
+## **[SWIFT](https://github.com/Kimjaeseop/Today-I-Learned/tree/main/SWIFT)**
+
 - Angela Yu iOS Lecture
 
-## ALGORITHM
+## **[ALGORITHM](https://github.com/Kimjaeseop/Today-I-Learned/tree/main/ALGORITHM)**
