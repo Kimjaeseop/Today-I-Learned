@@ -2,16 +2,12 @@
 
 # How Does an App Work?
 
----
-
 - 배터리 부족, 전화 수신 등 어플이 종료되어야 하는 상황에서 OS가 이와 같은 동작들을 알아서 처리해준다.
 - 예를 들어, 긴 양식을 작성하는 도중 전화가 오면 데이터를 잃지 않도록 폭 넓은 계확을 세워야한다.
     - 플랜은 가능한 모든 시나리오를 위한 것이다.
 - 어플을 만들기전에 배우고 설계해야 하는 것이 중요하다.
 
 # How to Make an App
-
----
 
 Step 0 : 왜 앱이 필요한가?
 
@@ -40,15 +36,11 @@ Step 7 : Update
 
 # Download your Massive Bundle of Assets
 
----
-
 - 앱을 만드는 데 필요한 컴파일된 번들 및 이미지와 같은 자료들을 받을 수 있음
 
 [12-Rules-to-Learn-to-Code-eBook-Updated-26.11.18.pdf](Section%201%20be2347432c12445692508a63d321a290/12-Rules-to-Learn-to-Code-eBook-Updated-26.11.18.pdf)
 
 # Can I use Windows to develop iOS apps?
-
----
 
 Ask in the Q & A
 
