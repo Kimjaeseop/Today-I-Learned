@@ -1,6 +1,4 @@
-# Today I Learned
-
-# **Today-I-Learned (TIL)**
+# Today-I-Learned (TIL)
 
 ## **[SWIFT](https://github.com/Kimjaeseop/Today-I-Learned/tree/main/SWIFT)**
 
