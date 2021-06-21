@@ -1,4 +1,4 @@
 # ALGORITHM
 
 - 백준
-	- LINK
+	- [LINK](https://www.acmicpc.net/user/jaeseb96)
