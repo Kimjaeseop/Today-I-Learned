@@ -1,6 +1,6 @@
 # ALGORITHM
 
-- 백준
+# 백준
 	- [Profile](https://www.acmicpc.net/user/jaeseb96)
 	
 ## 문제리스트
